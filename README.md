@@ -28,7 +28,7 @@ cd ~/catkin_ws/src
 ```
 2. Clone this package into src
 ```sh
-git clone https://github.com/harsh-kaushal/UGV-DTU_ROS_Stack.git
+git clone https://github.com/yatharthahuja/ugv-dtu-ros-stack.git
 ```
 3. Rename the "UGV-DTU_ROS_Stack" folder to "ugv_bot"
 ```sh
